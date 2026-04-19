@@ -1,4 +1,4 @@
-# Microsoft People Analytics Portfolio Starter
+# People Analytics Portfolio
 
 ## Included projects
 1. **Attrition risk modeling**
